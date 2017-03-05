@@ -1,0 +1,14 @@
+[version]
+0.39.0
+
+[ignore]
+<PROJECT_ROOT>/__test__/.*
+<PROJECT_ROOT>/node_modules/.*
+
+[include]
+
+[libs]
+<PROJECT_ROOT>/flow-typed/
+
+
+[options]
